@@ -54,8 +54,6 @@ Activating a virtual environment
 
 ##  Demo
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6860878359442792448" allowfullscreen="" title="Embedded post" width="504" height="731" frameborder="0"></iframe>
-
 Clone this repo:
 
     git clone https://github.com/Mohit-robo/Shape_Detection_with_Deep_Learning
