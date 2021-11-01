@@ -54,6 +54,8 @@ Activating a virtual environment
 
 ##  Demo
 
+<a href="#"><img width="100%" height="auto" src="https://www.linkedin.com/posts/mohit-gaikwad-688479193_classification-artificialneuralnetworks-keras-activity-6860878365356769281-ZB0h" height="100px"/></a>
+
 Clone this repo:
 
     git clone https://github.com/Mohit-robo/Shape_Detection_with_Deep_Learning
