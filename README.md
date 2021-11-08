@@ -1,7 +1,7 @@
 
 # Shape Recognition with Deep Learning
 
-<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/7sHHZLkBtjKL1rwyUv/giphy.gif" height="100px"/></a>
+<a href="#"><img width="60%" height="auto" src="https://media.giphy.com/media/7sHHZLkBtjKL1rwyUv/giphy.gif" height="80px"/></a>
 
 This Repository contains files related to Shape Recognition Technique built using Deep Learning techniques.
 ##  Installation
